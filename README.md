@@ -80,7 +80,7 @@ Enter plaintext: HELLO WORLD
 Enter key: KEY
 
 Ciphertext: RIJVSUYVJN
-Hash: XXXXXXXX
+Hash: OQCIYPZA
 Decrypted Text: HELLOWORLD
 
 ---
