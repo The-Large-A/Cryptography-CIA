@@ -76,12 +76,8 @@ The custom hash function was chosen because:
 
 ## Example Run
 
-Enter plaintext: HELLO WORLD
-Enter key: KEY
-
-Ciphertext: RIJVSUYVJN
-Hash: OQCIYPZA
-Decrypted Text: HELLOWORLD
+![Flowchart](images/Output1.png)
+![Flowchart](images/Output2.png)
 
 ---
 
